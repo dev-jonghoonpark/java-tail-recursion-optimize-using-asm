@@ -1,6 +1,7 @@
 ## java tail recursion optimize using asm
 
-original source from : [well-grounded-java/resources/blob/main/Ch15/src/main/java/ch15/TailRecASM.java](https://github.com/well-grounded-java/resources/blob/main/Ch15/src/main/java/ch15/TailRecASM.java)
+- original source from : [well-grounded-java/resources/blob/main/Ch15/src/main/java/ch15/TailRecASM.java](https://github.com/well-grounded-java/resources/blob/main/Ch15/src/main/java/ch15/TailRecASM.java)
+- detail content is on my blog : [java-tail-recursion-optimize-using-asm](https://jonghoonpark.com/2024/04/09/java-tail-recursion-optimize-using-asm)
 
 ## tested java version
 ```
